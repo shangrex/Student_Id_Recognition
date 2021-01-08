@@ -33,7 +33,7 @@ Use DL technique to recognize ID’s photo. we can simultaneously capture the ID
 | -------- | -------- | -------- |
 |  <img src="https://i.imgur.com/XV3kShL.png" width=300>    |  FXXXXXX   | 蔡X恩  |
 
-different terminal result:
+different image terminal result:
 
 <img src="https://i.imgur.com/y8A418b.png" width=300>
 
