@@ -35,11 +35,12 @@ python main.py
 
 
 | demo images	 | student ID | student name |  
-| -------- | -------- | -------- | -------- |
-|  ![](https://i.imgur.com/XV3kShL.png)    |  FXXXXXX   | 蔡X恩  |
+| -------- | -------- | -------- |
+|  <img src="https://i.imgur.com/XV3kShL.png" width=300>    |  FXXXXXX   | 蔡X恩  |
 
-terminal result:
-![](https://i.imgur.com/y8A418b.png)
+different terminal result:
+
+<img src="https://i.imgur.com/y8A418b.png" width=300>
 
 
 
