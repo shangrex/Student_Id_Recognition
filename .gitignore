@@ -1,6 +1,8 @@
 # OS generated
 *.DS_Store
 
+# Project configs
+.vscode
 venv
 dataset
 __pycache__
