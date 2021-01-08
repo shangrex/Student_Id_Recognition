@@ -8,25 +8,20 @@ During China Wuhan virus, a.k.a. COVID-19, most teachers do a roll call to recor
 ## Objective:
 Use DL technique to recognize ID’s photo. we can simultaneously capture the ID in a picture, and recognize the photo, name, ID.
 
-## Environment Prerequest
-We use pyqt5 to design UI, and use tensorflow and some module to train and recognize.  
-
-Install all modules with follwing command.
-```
-pip install -r requirement.txt
-```
-
-
 
 ## Quick Start
 1. Clone the project
-```
-git clone https://github.com/shangrex/Student_Id_Recognition.git
-```
-2. Run the main code
-```
-python main.py
-```
+  ```
+  git clone https://github.com/shangrex/Student_Id_Recognition.git
+  ```
+2. Install all modules with follwing command.
+  ```
+  pip install -r requirement.txt
+  ```
+3. Run the main code
+  ```
+  python main.py
+  ```
 
 
 
